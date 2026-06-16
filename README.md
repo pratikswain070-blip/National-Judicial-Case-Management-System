@@ -1,5 +1,5 @@
 # 2.1 Project Title
-**National Judicial Case Management System**
+##National Judicial Case Management System
 
 # 2.2 Problem Statement
 Case Study 189: National Judicial Case Management System
@@ -233,3 +233,6 @@ The system successfully mimics a high-volume judicial environment.
 
 # 2.12 Conclusion
 The National Judicial Case Management System successfully modernizes court administration by integrating classical algorithms with real-world logical requirements. It guarantees fairness via Queues, urgency via Heaps, and robust analytical mapping via Graphs and Depth-First Search. This project serves as a comprehensive demonstration of memory-efficient data management and manual algorithmic design.
+
+
+**Github Repo Link:-  https://github.com/pratikswain070-blip/National-Judicial-Case-Management-System
