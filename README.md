@@ -217,6 +217,12 @@ Appeal Journey: 101 -> 201 -> 301 -> 401 -> END
 ```
 
 # 2.10 Screenshots
+<img width="725" height="848" alt="Screenshot 2026-06-15 at 8 49 59 PM" src="https://github.com/user-attachments/assets/a258d2e3-4105-402d-954f-4b4182643f32" />
+<img width="742" height="846" alt="Screenshot 2026-06-15 at 8 50 57 PM" src="https://github.com/user-attachments/assets/cacacb40-c234-4395-a7fd-11752ea73878" />
+<img width="578" height="841" alt="Screenshot 2026-06-15 at 8 52 34 PM" src="https://github.com/user-attachments/assets/5048bb3f-c795-4995-b517-e918d49d894d" />
+<img width="717" height="769" alt="Screenshot 2026-06-15 at 8 54 36 PM" src="https://github.com/user-attachments/assets/a334e54d-417d-431d-b208-017cc0db09d0" />
+<img width="823" height="811" alt="Screenshot 2026-06-15 at 8 56 36 PM" src="https://github.com/user-attachments/assets/ac6b00d4-f848-4792-8657-31b0340204b0" />
+<img width="745" height="805" alt="Screenshot 2026-06-15 at 8 57 37 PM" src="https://github.com/user-attachments/assets/a75b9280-4652-4e00-9101-08251c52a769" />
 
 
 # 2.11 Results and Observations
